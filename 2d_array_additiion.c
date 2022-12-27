@@ -61,5 +61,6 @@ printf("\nA+B = ");
             printf("%d ",c[i][j]);
         }
         printf("\n\t");
+        printf("\n\t");
     }
 }
